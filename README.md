@@ -37,3 +37,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Features
+
+The main feature of the application is to generate vehicals of the value of Car, Truck, or Motorbike, and make them perform actions.
+This is the link to the demo video: [https://drive.google.com/file/d/1_9JPnUcz8FZClBmSO1kQ0drMjg62YEiT/view](https://drive.google.com/file/d/1nZ9oYegDjBN84HBsaNcLJ597epD9mvzF/view )
